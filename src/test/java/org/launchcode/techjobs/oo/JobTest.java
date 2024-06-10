@@ -51,7 +51,7 @@ public class JobTest {
 //        assertEquals(job1.getCoreCompetency().toString(), "test");
 //    }
 
-    //    @Test
+//        @Test
 //    public void testToStringHandlesEmptyField() {
 //        Job job1 = new Job("Web Developer", new Employer(""), new Location("StL"), new PositionType(""), new CoreCompetency("test"));
 //        assertEquals(job1.getName(), "Web Developer");
